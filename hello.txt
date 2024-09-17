@@ -1,3 +1,4 @@
 Tiistai illan harjoitus
 Katsotaan onnistuuko 
 vai pitääkö vielä harjoitella..
+Näyttäisi toimivan tämä. 
